@@ -1,0 +1,36 @@
+h1{
+  text-align: center;
+  font-family: 'AlexBrushRegular';
+   font-weight: normal;
+   font-style: normal;
+}
+
+.art{
+  margin: auto;
+}
+
+td{
+  height: 200px;
+  width: 100px;
+  border: 4px solid white;
+}
+
+#box1{
+  background: #264653;
+}
+
+#box2{
+  background: #2A9D8F;
+}
+
+#box3{
+  background: #E9C46A;
+}
+
+#box4{
+  background: #F4A261;
+}
+
+#box5{
+  background: #E76F51;
+}
